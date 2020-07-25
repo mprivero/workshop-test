@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "CAMPANILE ORCHESTRA" ] },
+    "homepage": [
+      {
+        "id": "https://scholarship.rice.edu/handle/1911/78219",
+        "type": "Text",
+        "label": { "en": [ "Home page for CAMPANILE ORCHESTRA" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://scholarship.rice.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Shepherd School of Music" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 78.0,
+        "items": [
+          {
+            "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://scholarship.rice.edu/streaming/file_cec9ddcd-5d7e-48ad-b604-0b1d2396ce63_ssm1990-01-28A_caption.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 78.0
+                },
+                "target": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
