@@ -30,6 +30,12 @@
             "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Playlist.json",
             "label": "Playlist"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements.json",
+            "label": "Movements"
+          }
         ],
         "items": [
           {
