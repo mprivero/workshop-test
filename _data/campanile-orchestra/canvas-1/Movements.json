@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements.json",
+  "type": "AnnotationPage",
+  "label": "Movements",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Orchestral Suite No. 1 in C Major",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "379.000000,1447.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Unaswered question",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1448.000000,1993.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Symphony no. 1 in C Minor, Op. 68 ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1994.000000,4735.507207"
+        }
+      }
+    }
+  ]
+}

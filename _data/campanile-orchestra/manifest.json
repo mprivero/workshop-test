@@ -23,6 +23,14 @@
         "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4722,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/canvas/Movements.json",
+            "label": "Movements"
+          }
+        ],
         "items": [
           {
             "id": "https://mprivero.github.io/workshop-test/campanile-orchestra/canvas-1/paintings",
