@@ -23,6 +23,14 @@
         "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4215,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas/Movements.json",
+            "label": "Movements"
+          }
+        ],
         "items": [
           {
             "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/paintings",

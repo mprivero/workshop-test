@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas/Movements.json",
+  "type": "AnnotationPage",
+  "label": "Movements",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas/Movements-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Impromptus, Op.90 / Franz Schubert",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.000000,1769.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas/Movements-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Preludes / Alexander Skryabin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1827.000000,2513.000000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas/Movements-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sonata in B Minor / Frédéric Chopin",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2563.000000,4173.000000"
+        }
+      }
+    }
+  ]
+}
