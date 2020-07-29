@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "DOMONIQUE LAUNEY, Piano Friday February 3, 1989" ] },
+    "homepage": [
+      {
+        "id": "https://scholarship.rice.edu/handle/1911/77962",
+        "type": "Text",
+        "label": { "en": [ "Home page for DOMONIQUE LAUNEY, Piano Friday February 3, 1989" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://scholarship.rice.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Shepherd School of Music" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4215,
+        "items": [
+          {
+            "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://scholarship.rice.edu/streaming/file_d52556cf-a3fe-4e68-8c41-09ecc3b85641_ssm1989-02-03A.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                  "duration": 4215
+                },
+                "target": "https://mprivero.github.io/workshop-test/domonique-launey-piano-friday-february-3-1989/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
